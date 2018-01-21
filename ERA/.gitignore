@@ -1,0 +1,12 @@
+/data*
+/backup*
+/Data Files
+/wallet*
+/bin/
+/ACCOUNTS.txt
+/*.iml
+*.iml
+
+log.txt
+log.txt.*
+*.zip
